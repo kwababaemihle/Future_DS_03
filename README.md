@@ -7,7 +7,7 @@ This project analyzes the Bank Marketing Campaign dataset to understand customer
 ## Tools Used
 - Google Colab
 - Power BI
-- GitHub
+  
 
 ## Dataset
 Bank Marketing Campaign Dataset from UCI Machine Learning Repository
